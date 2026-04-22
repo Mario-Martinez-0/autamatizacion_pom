@@ -1,11 +1,6 @@
 # Reto Técnico - Automatización de Pruebas
 
-## Información del Aspirante
 
-| Campo       | Detalle           |
-|-------------|-------------------|
-| **Nombre**  | sin nombre        |
-| **Contacto**| sin esta informacion |
 
 ---
 
